@@ -1,8 +1,10 @@
+const settings = require("./config/settings")
+
 module.exports = {
   siteMetadata: {
-    title: `revision zero`,
-    description: `This line intentionally left blank.`,
-    author: `Frank Stender`,
+    // title: settings.title,
+    // description: settings.description,
+    // author: settings.author,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

@@ -1,2 +1,30 @@
 /* Layout
   =============== */
+
+  #main-content {
+    margin-top: 55px;
+    padding: 40px 0 0;
+    min-height: calc(100vh - 162px);
+  }
+  
+  @include small-breakpoint {
+    #main-content {
+      margin-top: 92px;
+      padding: 60px 0 0;
+      min-height: calc(100vh - 222px);
+    }
+  }
+  
+  .container {
+    max-width: $width;
+    padding: 0 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  @include small-breakpoint {
+    .container {
+      padding: 0 2rem;
+    }
+  }
+  
