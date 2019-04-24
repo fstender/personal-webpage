@@ -6,8 +6,6 @@ These are all the files I need to build my personal webpage.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 * [Node.js](https://nodejs.org/en) of course
 * Working installation of [git](https://git-scm.com)
 * And the [Gatsby CLI](https://www.gatsbyjs.org/tutorial/part-zero)
@@ -26,6 +24,7 @@ gatsby develop
 ## Built With
 
 * [Gatsby](https://www.gatsbyjs.org)
+* [Primitive UI](https://github.com/taniarascia/primitive)
 * [Visual Studio Code](https://code.visualstudio.com)
 
 ## License
