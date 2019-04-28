@@ -2,14 +2,14 @@
   =============== */
 
   #main-content {
-    margin-top: 55px;
+    // margin-top: 55px;
     padding: 40px 0 0;
     min-height: calc(100vh - 162px);
   }
   
   @include small-breakpoint {
     #main-content {
-      margin-top: 92px;
+      // margin-top: 92px;
       padding: 60px 0 0;
       min-height: calc(100vh - 222px);
     }

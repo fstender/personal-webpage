@@ -2,6 +2,7 @@
 path: "/syntax-test"
 date: "2019-04-24"
 title: "Testing the Markdown Syntax"
+type: "post"
 ---
 # Markdown: Syntax
 

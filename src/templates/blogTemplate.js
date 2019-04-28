@@ -12,7 +12,7 @@ export default function Template({
   return (
     <Layout>
       <SEO title="Page two" />
-      <div className="blog-post-container">
+      <div className="blog-post-container container">
         <div className="blog-post">
           <h1>{frontmatter.title}</h1>
           <h2>{frontmatter.date}</h2>
